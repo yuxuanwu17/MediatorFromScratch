@@ -1,0 +1,15 @@
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/bin/Debug/net7.0/MediatorFromScratch.DependencyInjection.deps.json
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/bin/Debug/net7.0/MediatorFromScratch.DependencyInjection.dll
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/bin/Debug/net7.0/MediatorFromScratch.DependencyInjection.pdb
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/bin/Debug/net7.0/MediatorFromScratch.dll
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/bin/Debug/net7.0/MediatorFromScratch.pdb
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/MediatorFromScratch.DependencyInjection.csproj.AssemblyReference.cache
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/MediatorFromScratch.DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/MediatorFromScratch.DependencyInjection.AssemblyInfoInputs.cache
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/MediatorFromScratch.DependencyInjection.AssemblyInfo.cs
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/MediatorFromScratch.DependencyInjection.csproj.CoreCompileInputs.cache
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/MediatorFromScratch.DependencyInjection.csproj.CopyComplete
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/MediatorFromScratch.DependencyInjection.dll
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/refint/MediatorFromScratch.DependencyInjection.dll
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/MediatorFromScratch.DependencyInjection.pdb
+/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/Debug/net7.0/ref/MediatorFromScratch.DependencyInjection.dll

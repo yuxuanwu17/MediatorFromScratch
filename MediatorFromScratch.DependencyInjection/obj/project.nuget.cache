@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+csP5mHi5Xq6bgIbTL8q+l40kNG+acA0nLYHwMloZu3D9ElbG/Zv96cb17TA0rUUGzyQ2dwncUHX/Hpge89ZLA==",
+  "success": true,
+  "projectFilePath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/MediatorFromScratch.DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "/Users/yuxuan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-rc.2.23479.6/microsoft.extensions.dependencyinjection.abstractions.8.0.0-rc.2.23479.6.nupkg.sha512"
+  ],
+  "logs": []
+}

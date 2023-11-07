@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.Sample/MediatorFromScratch.Sample.csproj": {}
+  },
+  "projects": {
+    "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/MediatorFromScratch.DependencyInjection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/MediatorFromScratch.DependencyInjection.csproj",
+        "projectName": "MediatorFromScratch.DependencyInjection",
+        "projectPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/MediatorFromScratch.DependencyInjection.csproj",
+        "packagesPath": "/Users/yuxuan/.nuget/packages/",
+        "outputPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuxuan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/yuxuan/.nuget/bin/Release/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch/MediatorFromScratch.csproj": {
+                "projectPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch/MediatorFromScratch.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23479.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.Sample/MediatorFromScratch.Sample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.Sample/MediatorFromScratch.Sample.csproj",
+        "projectName": "MediatorFromScratch.Sample",
+        "projectPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.Sample/MediatorFromScratch.Sample.csproj",
+        "packagesPath": "/Users/yuxuan/.nuget/packages/",
+        "outputPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.Sample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuxuan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/yuxuan/.nuget/bin/Release/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/MediatorFromScratch.DependencyInjection.csproj": {
+                "projectPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch.DependencyInjection/MediatorFromScratch.DependencyInjection.csproj"
+              },
+              "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch/MediatorFromScratch.csproj": {
+                "projectPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch/MediatorFromScratch.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0-rc.2.23479.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch/MediatorFromScratch.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch/MediatorFromScratch.csproj",
+        "projectName": "MediatorFromScratch",
+        "projectPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch/MediatorFromScratch.csproj",
+        "packagesPath": "/Users/yuxuan/.nuget/packages/",
+        "outputPath": "/Users/yuxuan/Library/Mobile Documents/com~apple~CloudDocs/Projects/MediatorFromScratch/MediatorFromScratch/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/yuxuan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/Users/yuxuan/.nuget/bin/Release/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
